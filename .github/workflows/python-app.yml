@@ -16,7 +16,7 @@ jobs:
       run: "..\\..\\compileTestMe.bat"
     - name: Run bat file 2
       shell: cmd
-      run: ".\compileTestMe.bat"
+      run: ".\\compileTestMe.bat"
 
 
     #- name: Build
