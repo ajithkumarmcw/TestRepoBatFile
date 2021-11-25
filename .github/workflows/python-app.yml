@@ -11,8 +11,12 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: Run bat file
+    - name: Run bat file 1
+      shell: cmd
       run: "..\\..\\compileTestMe.bat"
+    - name: Run bat file 2
+      shell: cmd
+      run: ".\compileTestMe.bat"
 
 
     #- name: Build
