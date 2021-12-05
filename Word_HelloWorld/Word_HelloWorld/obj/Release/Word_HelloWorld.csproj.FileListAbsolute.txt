@@ -1,0 +1,11 @@
+C:\Users\Ajith\source\repos\Forked_Repo\20211205_OPTS\TestRepoBatFile\Word_HelloWorld\Word_HelloWorld\bin\Release\Word_HelloWorld.exe.config
+C:\Users\Ajith\source\repos\Forked_Repo\20211205_OPTS\TestRepoBatFile\Word_HelloWorld\Word_HelloWorld\bin\Release\Word_HelloWorld.exe
+C:\Users\Ajith\source\repos\Forked_Repo\20211205_OPTS\TestRepoBatFile\Word_HelloWorld\Word_HelloWorld\bin\Release\Word_HelloWorld.pdb
+C:\Users\Ajith\source\repos\Forked_Repo\20211205_OPTS\TestRepoBatFile\Word_HelloWorld\Word_HelloWorld\bin\Release\CommandLine.dll
+C:\Users\Ajith\source\repos\Forked_Repo\20211205_OPTS\TestRepoBatFile\Word_HelloWorld\Word_HelloWorld\bin\Release\CommandLine.xml
+C:\Users\Ajith\source\repos\Forked_Repo\20211205_OPTS\TestRepoBatFile\Word_HelloWorld\Word_HelloWorld\obj\Release\Word_HelloWorld.csprojAssemblyReference.cache
+C:\Users\Ajith\source\repos\Forked_Repo\20211205_OPTS\TestRepoBatFile\Word_HelloWorld\Word_HelloWorld\obj\Release\Word_HelloWorld.csproj.ResolveComReference.cache
+C:\Users\Ajith\source\repos\Forked_Repo\20211205_OPTS\TestRepoBatFile\Word_HelloWorld\Word_HelloWorld\obj\Release\Word_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Ajith\source\repos\Forked_Repo\20211205_OPTS\TestRepoBatFile\Word_HelloWorld\Word_HelloWorld\obj\Release\Word_HelloWorld.csproj.CopyComplete
+C:\Users\Ajith\source\repos\Forked_Repo\20211205_OPTS\TestRepoBatFile\Word_HelloWorld\Word_HelloWorld\obj\Release\Word_HelloWorld.exe
+C:\Users\Ajith\source\repos\Forked_Repo\20211205_OPTS\TestRepoBatFile\Word_HelloWorld\Word_HelloWorld\obj\Release\Word_HelloWorld.pdb
