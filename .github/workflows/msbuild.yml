@@ -22,7 +22,7 @@ jobs:
       uses: microsoft/setup-msbuild@v1.0.2
     - name: Use NuGet 5.2.0
       uses: nuget/setup-nuget@v1
-  
+    - run: nuget install .\\Word_HelloWorld\\Word_HelloWorld\\packages.config -o .\\Word_HelloWorld\\packages\
 
     - name: Build
       working-directory: ".\\Word_HelloWorld"
