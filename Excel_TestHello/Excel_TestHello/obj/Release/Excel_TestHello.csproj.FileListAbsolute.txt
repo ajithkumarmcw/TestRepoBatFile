@@ -1,0 +1,6 @@
+C:\Users\Ajith\source\repos\Forked_Repo\20211205_OPTS\TestRepoBatFile\Excel_TestHello\Excel_TestHello\bin\Release\Excel_TestHello.exe.config
+C:\Users\Ajith\source\repos\Forked_Repo\20211205_OPTS\TestRepoBatFile\Excel_TestHello\Excel_TestHello\bin\Release\Excel_TestHello.exe
+C:\Users\Ajith\source\repos\Forked_Repo\20211205_OPTS\TestRepoBatFile\Excel_TestHello\Excel_TestHello\bin\Release\Excel_TestHello.pdb
+C:\Users\Ajith\source\repos\Forked_Repo\20211205_OPTS\TestRepoBatFile\Excel_TestHello\Excel_TestHello\obj\Release\Excel_TestHello.csproj.CoreCompileInputs.cache
+C:\Users\Ajith\source\repos\Forked_Repo\20211205_OPTS\TestRepoBatFile\Excel_TestHello\Excel_TestHello\obj\Release\Excel_TestHello.exe
+C:\Users\Ajith\source\repos\Forked_Repo\20211205_OPTS\TestRepoBatFile\Excel_TestHello\Excel_TestHello\obj\Release\Excel_TestHello.pdb
