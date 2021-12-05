@@ -13,7 +13,7 @@ jobs:
     - uses: actions/checkout@v2
     - name: Run bat file 1
       shell: cmd
-      run: ".\\compileTestMe.bat"
+      run: ".\\Compile_testsuite.bat"
     - name: Run bat file 2
       shell: cmd
       run: ".\\compileTestMe.bat"

@@ -1,0 +1,30 @@
+-i ..\\input\\MOCK_Data_Only_for_sorting.xlsx
+-o SortResult_small.xlsx
+-n 10
+-p 2000
+--SheetNumber 1
+--SortOrder ASC
+--Range A1:V1000
+--ColumnList 1,5,18,3,15,7,4,12,9,16
+--Repetition 2
+-s 2000
+
+-i ..\\input\\MOCK_Data_Only_for_sorting.xlsx
+-o SortResult_medium.xlsx
+-n 10
+-p 2000
+--SheetNumber 1
+--SortOrder DES
+--Range A1:V10000
+--ColumnList 15,7,4,12,9,16,1,5,18,3
+-s 2000
+
+-i ..\\input\\MOCK_Data_Only_for_sorting.xlsx
+-o SortResult_big.xlsx
+-n 10
+-p 2000
+--SheetNumber 1
+--SortOrder ASC
+--Range A1:V100000
+--ColumnList 1,5,18,3,15,7,4,12,9,16
+-s 2000
