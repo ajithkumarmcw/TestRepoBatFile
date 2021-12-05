@@ -1,5 +1,6 @@
 @echo off
 rem Get Current Path
+echo %path%
 set defaultPath=%CD%
 set defaultPath=%defaultPath: =%
 rem Print Current Path
